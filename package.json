@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt_react_clone",
+  "version": "1.0.0",
+  "description": "ChatGPT Clone variant built using ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durbar2003/ChatGPT_react_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durbar2003/ChatGPT_react_clone/issues"
+  },
+  "homepage": "https://github.com/durbar2003/ChatGPT_react_clone#readme"
+}
