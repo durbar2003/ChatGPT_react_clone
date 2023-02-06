@@ -21,10 +21,20 @@ function App() {
             
             </div>
             </div>
+            <div className="chat-message-chatgpt">
+            <div className="chat-message-center">
+            <div className="avatar-2">
+
+            </div>
+            <div className="message">
+            
+            </div>
+            </div>
           </div>
         </div>
         <div className="chat-input-holder">
           <textarea rows="1" className="chat-input-textarea"></textarea>
+        </div>
         </div>
       </section>
     </div>
