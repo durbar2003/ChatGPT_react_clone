@@ -1,2 +1,2 @@
 # ChatGPT_react_clone
-ChatGPT Clone variant built using ReactJS, ExpressJS and OpenAI
+ChatGPT Clone built using ReactJS, ExpressJS and OpenAI
