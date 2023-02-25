@@ -1,2 +1,2 @@
 # ChatGPT_react_clone
-ChatGPT Clone built using ReactJS, ExpressJS and OpenAI
+This is a ChatGPT Clone built using ReactJS, ExpressJS middleware and OpenAI. Using the OpenAI API, the platform can be customised as and when needed by the user and can even be extended to include more features on top of the ones provided by ChatGPT. The project can also be hosted by anyone who intends to use it for personal usage and would be useful to combat the frequent traffic issues of ChatGPT.
